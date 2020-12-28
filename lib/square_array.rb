@@ -1,8 +1,8 @@
 def square_array(array)
-   i=0
+   z=0
   while i<array.length do
-    array[i]=array[i]**2
-    i+=1
+    array[z]=array[z]**2
+    z+=1
   end
   return array
 end 	
